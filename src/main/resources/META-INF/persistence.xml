@@ -6,7 +6,7 @@
         <class>org.projeto.model.entities.Aluno</class>
 
         <properties>
-            <property name="jakarta.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/faculdade_sistema"/>
+            <property name="jakarta.persistence.jdbc.url"  value="jdbc:postgresql://127.0.0.1:5432/opa"/>
             <property name="jakarta.persistence.jdbc.user" value="postgres"/>
             <property name="jakarta.persistence.jdbc.password" value="opa"/>
             <property name="jakarta.persistence.jdbc.driver" value="org.postgresql.Driver"/>
